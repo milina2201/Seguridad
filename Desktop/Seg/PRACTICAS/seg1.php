@@ -1,0 +1,9 @@
+<?php
+$a=22;
+$b=7;
+$c=$a%$b;
+if($a<0)
+echo($c+$b);
+else 
+echo($c);
+?>
