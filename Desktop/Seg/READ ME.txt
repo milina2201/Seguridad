@@ -1,0 +1,9 @@
+HOLA!!!
+
+Ya se que lo envio un poco tarde pero, tenía la esperanza de poder hacer más..
+
+Lo que tienes que hacer es abrir el inicia.html
+y hay que crear una base de datos llamada REGISTRO y despues con source cargar
+el Regseg.sql. 
+Y ya :D ...
+
